@@ -1,0 +1,20 @@
+{
+  "name": "redux-route-middleware",
+  "version": "1.0.0",
+  "description": "A Redux Middleware that handles history changes and is compatible with redux-axios-middleware",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Fornario Jr",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "webpack-cli": "^3.1.0",
+    "babel": "^6.23.0",
+    "webpack": "^4.16.3"
+  }
+}
